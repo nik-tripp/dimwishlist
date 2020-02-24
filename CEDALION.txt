@@ -24,6 +24,52 @@ description:override AI-COM/RSPN//MIDNIGHT EXIGENT \r\n provide logistical suppo
 
 ////////////////////////////////////////////////////
 
+// BEGIN munition category AUTO RIFLE
+// BEGIN subcategory ADAPTIVE FRAME
+
+// munition ID code 821154603//GNAWING HUNGER
+//--------------------------------------------------
+dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384158423#notes:izTrippn - all-rounder
+//--------------------------------------------------
+
+// END subcategory ADAPTIVE FRAME
+// END munition category AUTO RIFLE
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// BEGIN munition category FUSION RIFLE
+// BEGIN subcategory [FUSION RIFLE//subcategory]
+
+// munition ID code [id//NAME]
+//--------------------------------------------------
+[munition data]
+//--------------------------------------------------
+
+// END subcategory [FUSION RIFLE//subcategory]
+// END munition category FUSION RIFLE
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// BEGIN munition category GRENADE LAUNCHER
+// BEGIN subcategory ADAPTIVE FRAME
+
+// munition ID code 736901634//DOOMSDAY
+//--------------------------------------------------
+dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - this is a long-distance God Roll
+dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - this will kick extra comparative ass after the "high-impact" archetype becomes "rapid-fire"
+//--------------------------------------------------
+
+// END subcategory ADAPTIVE FRAME
+// END munition category GRENADE LAUNCHER
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
 // BEGIN munition category HAND CANNON
 // BEGIN subcategory HAND CANNON//AGRESSIVE FRAME
 
@@ -82,30 +128,82 @@ dimwishlist:item=233423981&perks=1926090095,3177308360,2387244414,588594999,3841
 
 ////////////////////////////////////////////////////
 
-// BEGIN munition category AUTO RIFLE
-// BEGIN subcategory ADAPTIVE FRAME
+////////////////////////////////////////////////////
 
-// munition ID code 821154603//GNAWING HUNGER
+// BEGIN munition category PULSE RIFLE
+// BEGIN subcategory PULSE RIFLE//AGRESSIVE BURST
+
+// munition ID code 1931556011//BLAST FURNACE
 //--------------------------------------------------
-dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384158423#notes:izTrippn - all-rounder
+dimwishlist:item=3843477312&perks=2414725840,3177308360,2387244414,3425386926,384158423#notes:izTrippn - PvP point at head. Pull trigger until dead.
+dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Everyone creams over KC. I never remember to trigger it ¯\_(ツ)_/¯
 //--------------------------------------------------
 
-// END subcategory ADAPTIVE FRAME
-// END munition category AUTO RIFLE
+// END subcategory PULSE RIFLE//AGRESSIVE BURST
+// BEGIN subcategory PULSE RIFLE//RAPID-FIRE FRAME
+
+// munition ID code 1071542914//HORROR'S LEAST
+//--------------------------------------------------
+dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,384158423#notes:izTrippn - PvP put a CB stock on it and you'll have perfect recoil direction
+//--------------------------------------------------
+
+// END subcategory PULSE RIFLE//RAPID-FIRE FRAME
+// END munition category PULSE RIFLE
 
 ////////////////////////////////////////////////////
 
-// BEGIN munition category GRENADE LAUNCHER
-// BEGIN subcategory ADAPTIVE FRAME
+////////////////////////////////////////////////////
 
-// munition ID code 736901634//DOOMSDAY
+// BEGIN munition category ROCKET LAUNCHER
+// BEGIN subcategory [ROCKET LAUNCHER//subcategory]
+
+// munition ID code [id//NAME]
 //--------------------------------------------------
-dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - this is a long-distance God Roll
-dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - this will kick extra comparative ass after the "high-impact" archetype becomes "rapid-fire"
+[munition data]
 //--------------------------------------------------
 
-// END subcategory ADAPTIVE FRAME
-// END munition category GRENADE LAUNCHER
+// END subcategory [ROCKET LAUNCHER//subcategory]
+// END munition category [ROCKET LAUNCHER]
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// BEGIN munition category SMG
+// BEGIN subcategory [SMG//subcategory]
+
+// munition ID code [id//NAME]
+//--------------------------------------------------
+[munition data]
+//--------------------------------------------------
+
+// END subcategory [SMG//subcategory]
+// END munition category [SMG]
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// BEGIN munition category SCOUT RIFLE
+// BEGIN subcategory SCOUT RIFLE//PRECISION FRAME
+
+// munition ID code 1931556011//NO FEELINGS
+//--------------------------------------------------
+dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn - PvP Trigger Box breathing, three tap, repeat
+//--------------------------------------------------
+
+// END subcategory SCOUT RIFLE//PRECISION FRAME
+// BEGIN subcategory SCOUT RIFLE//HIGH-IMPACT FRAME
+
+// munition ID code 1982711279//TALONS OF THE EAGLE
+//--------------------------------------------------
+dimwishlist:item=1982711279&perks=1482024992,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP Max range headshot machine
+//--------------------------------------------------
+
+// END subcategory SCOUT RIFLE//PRECISION FRAME
+// END munition category SCOUT RIFLE
+
+////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////
 
@@ -137,47 +235,6 @@ dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very st
 
 ////////////////////////////////////////////////////
 
-// BEGIN munition category SCOUT RIFLE
-// BEGIN subcategory SCOUT RIFLE//PRECISION FRAME
-
-// munition ID code 1931556011//NO FEELINGS
-//--------------------------------------------------
-dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn - PvP Trigger Box breathing, three tap, repeat
-//--------------------------------------------------
-
-// END subcategory SCOUT RIFLE//PRECISION FRAME
-// BEGIN subcategory SCOUT RIFLE//HIGH-IMPACT FRAME
-
-// munition ID code 1982711279//TALONS OF THE EAGLE
-//--------------------------------------------------
-dimwishlist:item=1982711279&perks=1482024992,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP Max range headshot machine
-//--------------------------------------------------
-
-// END subcategory SCOUT RIFLE//PRECISION FRAME
-// END munition category SCOUT RIFLE
-
-////////////////////////////////////////////////////
-
-// BEGIN munition category PULSE RIFLE
-// BEGIN subcategory PULSE RIFLE//AGRESSIVE BURST
-
-// munition ID code 1931556011//BLAST FURNACE
-//--------------------------------------------------
-dimwishlist:item=3843477312&perks=2414725840,3177308360,2387244414,3425386926,384158423#notes:izTrippn - PvP point at head. Pull trigger until dead.
-dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Everyone creams over KC. I never remember to trigger it ¯\_(ツ)_/¯
-//--------------------------------------------------
-
-// END subcategory PULSE RIFLE//AGRESSIVE BURST
-// BEGIN subcategory PULSE RIFLE//RAPID-FIRE FRAME
-
-// munition ID code 1071542914//HORROR'S LEAST
-//--------------------------------------------------
-dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,384158423#notes:izTrippn - PvP put a CB stock on it and you'll have perfect recoil direction
-//--------------------------------------------------
-
-// END subcategory PULSE RIFLE//RAPID-FIRE FRAME
-// END munition category PULSE RIFLE
-
 ////////////////////////////////////////////////////
 
 // BEGIN munition category SIDEARM
@@ -197,6 +254,8 @@ dimwishlist:item=2009277538&perks=1561002382,1890422124#notes:izTrippn - PvP bli
 
 // END subcategory SIDEARM//OMOLON ADAPTIVE FRAME
 // END munition category SIDEARM
+
+////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////
 
@@ -222,6 +281,21 @@ dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#no
 
 // END subcategory SNIPER RIFLE//ADAPTIVE FRAME
 // END munition category SNIPER RIFLE
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// BEGIN munition category SWORD
+// BEGIN subcategory [SWORD//subcategory]
+
+// munition ID code [id//NAME]
+//--------------------------------------------------
+[munition data]
+//--------------------------------------------------
+
+// END subcategory [SWORD//subcategory]
+// END munition category [SWORD]
 
 ////////////////////////////////////////////////////
 
