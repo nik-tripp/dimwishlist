@@ -1,5 +1,5 @@
-title:V42NNI900CLS009 AI-COM/CHWT : GUARDIANS//FORCECON//LOGISTICS 
-description:override AI-COM/RSPN//MIDNIGHT EXIGENT \r\n provide logistical support for asset GUARDIANS
+title:V42NNI900CLS009 AI-COM/CHWT : GUARDIANS//FORCECON//DATA 
+description:override protocol MIDNIGHT EXIGENT to provide support for asset GUARDIANS
 
 // BEGIN munitions specification template
 
