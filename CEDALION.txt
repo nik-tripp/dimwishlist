@@ -1,6 +1,87 @@
 title:V42NNI900CLS009 AI-COM/CHWT : GUARDIANS//FORCECON//LOGISTICS 
-description:override AI-COM/RSPN//MIDNIGHT EXIGENT to provide logistics support for asset GUARDIANS
+description:override AI-COM/RSPN//MIDNIGHT EXIGENT \r\n provide logistical support for asset GUARDIANS
 
-dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197
+// munitions sorting data follows
+
+// munition ID code 2112909414//DUKE MK-44
+dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE primary. Slow loading, recommend hunter class
+dimwishlist:item=2112909414&perks=1926090094,47981717,1885400500,588594999,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
+dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,3425386926,2697220197#notes:izTrippn - PvE primary, TT will fix non-hunter reload times
+
+// munition ID code 821154603//GNAWING HUNGER
+dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384158423#notes:izTrippn - all-rounder
+
+// munition ID code 736901634//DOOMSDAY
+dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - this is a long-distance God Roll
+dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - this will kick extra comparative ass after the "high-impact" archetype become "rapid-fire"
+
+// munition ID code 3116356268//SPARE RATIONS
+dimwishlist:item=3116356268&perks=1840239774,1968497646,4071163871,4082225868,186337601#notes:izTrippn - PvE. Get in close, have a ball
+dimwishlist:item=3116356268&perks=1482024992,1885400500,957782887,588594999,2697220197#notes:izTrippn - PvP (probably best balance)
+dimwishlist:item=3116356268&perks=202670084,1885400500,957782887,2846385770,2697220197#notes:izTrippn - PvP (max range)
+
+// munition ID code 3393519051//PERFECT PARADOX
+dimwishlist:item=3393519051&perks=1300023272,106909392,3523296417,2360754333,384158423#notes:izTrippn - PvE God roll
+dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very strong PvE perks here
+
+// munition ID code 1178886909//THIN LINE
+dimwishlist:item=1178886909&perks=1926090092,1885400500,588594999,3425386926,384158423#notes:izTrippn - PvP/PvE primary God roll. Slow loading, recommend hunter class
+dimwishlist:item=1178886909&perks=1926090091,1885400500,706527188,47981717,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
+
+// munition ID code 334171687//WAKING VIGIL
+dimwishlist:item=334171687&perks=1926090092,1885400500,2387244414,957782887,2697220197#notes:izTrippn - PvP this is as good as this gets
+dimwishlist:item=334171687&perks=1885400500,2387244414,957782887#notes:izTrippn - PvE Most of the other perks in these slots are garbage
+dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
+dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
+dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
+
+// munition ID code 410996590//JACK QUEEN KING 3
+dimwishlist:item=410996590&perks=1926090092,1885400500,3523296417,957782887,2697220197#notes:izTrippn - PvP About as good as this gets
+dimwishlist:item=410996590&perks=1926090094,4071163871,3708227201#notes:izTrippn - PvE This synergy is the only reason to have threat detector
+dimwishlist:item=410996590&perks=3523296417#notes:izTrippn - PvE Hard to go wrong with most of the perks this gets
+dimwishlist:item=410996590&perks=1820235745#notes:izTrippn - PvE Hard to go wrong with most of the perks this gets
+
+// munition ID code 2919334548//IMPERIAL DECREE
+dimwishlist:item=2919334548&perks=1047830412,3142289711,957782887,2697220197#notes:izTrippn - PvP Max range those MFs
+
+// munition ID code 1931556011//NO FEELINGS
+dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn - PvP Trigger Box breathing, three tap, repeat
+
+// munition ID code 1931556011//BLAST FURNACE
+dimwishlist:item=3843477312&perks=2414725840,3177308360,2387244414,3425386926,384158423#notes:izTrippn - PvP point at head. Pull trigger until dead.
+dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Everyone creams over KC. I never remember to trigger it ¯\_(ツ)_/¯
+
+// munition ID code 1071542914//HORROR'S LEAST
+dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,384158423#notes:izTrippn - PvP put a CB stock on it and you'll have perfect recoil direction
+
+// munition ID code 1071542914//LAST HOPE
+dimwishlist:item=3622137132&perks=445755710,1561002382,2846385770,1890422124,2697220197#notes:izTrippn - PvP God Roll. This will reach their face, stay there, and blind them
+dimwishlist:item=3622137132&perks=1561002382,1890422124#notes:izTrippn - PvP incredible stability + blinding headshots + extra flinch
+
+// munition ID code 1982711279//TALONS OF THE EAGLE
+dimwishlist:item=1982711279&perks=1482024992,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP Max range headshot machine
+
+// munition ID code 233423981//WARDEN'S LAW
+dimwishlist:item=233423981&perks=1926090095,1885400500,3425386926,588594999,384158423#notes:izTrippn - PvP this might suck, but I wanna try it
+dimwishlist:item=233423981&perks=1926090093,1885400500,3425386926,2387244414#notes:izTrippn - Curated, could be fun
+dimwishlist:item=233423981&perks=1926090095,3177308360,2387244414,588594999,384158423#notes:izTrippn - PvP probably the only way this 2-shot burst business could be viable
+
+// munition ID code 3297863558//TWILIGHT OATH
+dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,2848615171,2697220197#notes:izTrippn - PvP max range for aim assist, firefly for messing with clustered teams
+dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,2697220197#notes:izTrippn - PvP max range, hopefully get that aim assist in there
+dimwishlist:item=3297863558&perks=3661387068,3177308360,957782887,2551157718#notes:iztrippn - Curated, the only way to get snapshot. Use it well.
+
+// munition ID code 4190932264//BELOVED
+dimwishlist:item=4190932264&perks=202670084,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP max range, for sticky aim assist
+dimwishlist:item=4190932264&perks=957782887,706527188#notes:izTrippn - PvP if you're Moof and use snipers as a panic weapon
+dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#notes:izTrippn - Curated, fun for sniper fantasies
+
+// munition ID code 4117693024//MINDBENDER'S AMBITION
+dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,706527188,2697220197#notes:izTrippn - This is a God Roll, and you know why it's here.
+dimwishlist:item=4117693024&perks=1332244541,3177308360,47981717,3425386926#notes:izTrippn - PvE Curated. Should do you justice while mowing things down
+
+// munition ID code 2009277538//MINDBENDER'S AMBITION
+dimwishlist:item=2009277538&perks=445755710,1561002382,588594999,1890422124,2697220197#notes:izTrippn - PvP blinding, high flinch, long range, and sticky. no brainer
+dimwishlist:item=2009277538&perks=1561002382,1890422124#notes:izTrippn - PvP blinding lazer pointer with high flinch
 
 // STOP STOP STOP V222NNI900CLS009 
