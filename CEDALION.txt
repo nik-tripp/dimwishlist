@@ -6,7 +6,7 @@ description:override protocol MIDNIGHT EXIGENT to provide support for asset GUAR
 ////////////////////////////////////////////////////
 
 // BEGIN [CATEGORY]
-// BEGIN subcategory CATEGORY//[SUBCATEGORY]
+// BEGIN CATEGORY//[SUBCATEGORY]
 
 // munition ID code [id//NAME]
 //--------------------------------------------------
@@ -33,7 +33,7 @@ dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384
 //--------------------------------------------------
 
 // END AUTO RIFLE//[ADAPTIVE FRAME]
-// BEGIN subcategory AUTO RIFLE//[HIGH-IMPACT FRAME]
+// BEGIN AUTO RIFLE//[HIGH-IMPACT FRAME]
 
 // munition ID code [1286686760//GAHLRAN'S RIGHT HAND]
 //--------------------------------------------------
@@ -47,7 +47,7 @@ dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - PvP. Re
 dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Recommend CB stock. Better than no stability-boost perk.
 //--------------------------------------------------
 
-// END CATEGORY//[SUBCATEGORY]
+// END AUTO RIFLE//[HIGH-IMPACT FRAME]
 // END [AUTO RIFLE]
 
 ////////////////////////////////////////////////////
@@ -180,9 +180,8 @@ dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,3841
 // BEGIN [ROCKET LAUNCHER]
 // BEGIN ROCKET LAUNCHER//[PRECISION FRAME]
 
-// munition ID code [id//PYROCLASTIC FLOW]
+// munition ID code [1289324202//PYROCLASTIC FLOW]
 //--------------------------------------------------
-
 dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761,1154004463#notes:izTrippn - PvE. Boss DPS w/max velocity (my personal God roll)
 dimwishlist:item=1289324202&perks=3796465595,2010801679,1275731761#notes:izTrippn - PvE. Maximized boss DPS.
 dimwishlist:item=1289324202&perks=3796465595,1275731761#notes:izTrippn - PvE. Boss DPS.
@@ -190,7 +189,7 @@ dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:izTrippn - PvE. Ki
 dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
 //--------------------------------------------------
 
-// END ROCKET LAUNCHER//[subcategory]
+// END ROCKET LAUNCHER//[PRECISION FRAME]
 // END [ROCKET LAUNCHER]
 
 ////////////////////////////////////////////////////
@@ -259,6 +258,14 @@ dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very st
 //--------------------------------------------------
 
 // END SHOTGUN//[RAPID-FIRE FRAME]
+// BEGIN SHOTGUN//[LIGHTWEIGHT FRAME]
+
+// munition ID code [id//NAME]
+//--------------------------------------------------
+<munition data>
+//--------------------------------------------------
+
+// END SHOTGUN//[LIGHTWEIGHT FRAME]
 // END [SHOTGUN]
 
 ////////////////////////////////////////////////////
