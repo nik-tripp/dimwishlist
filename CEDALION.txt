@@ -178,11 +178,16 @@ dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,3841
 ////////////////////////////////////////////////////
 
 // BEGIN [ROCKET LAUNCHER]
-// BEGIN ROCKET LAUNCHER//[subcategory]
+// BEGIN ROCKET LAUNCHER//[PRECISION FRAME]
 
-// munition ID code [id//NAME]
+// munition ID code [id//PYROCLASTIC FLOW]
 //--------------------------------------------------
-<munition data>
+
+dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761,1154004463#notes:izTrippn - PvE. Boss DPS w/max velocity (my personal God roll)
+dimwishlist:item=1289324202&perks=3796465595,2010801679,1275731761#notes:izTrippn - PvE. Maximized boss DPS.
+dimwishlist:item=1289324202&perks=3796465595,1275731761#notes:izTrippn - PvE. Boss DPS.
+dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:izTrippn - PvE. Kill all the things.
+dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
 //--------------------------------------------------
 
 // END ROCKET LAUNCHER//[subcategory]
