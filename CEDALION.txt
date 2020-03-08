@@ -389,6 +389,11 @@ dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,2697220197#notes
 dimwishlist:item=3297863558&perks=3661387068,3177308360,957782887,2551157718#notes:iztrippn - Curated, the only way to get snapshot. Use it well.
 //--------------------------------------------------
 
+// munition ID code [3297863558//THE SUPREMACY]
+//--------------------------------------------------
+dimwishlist:item=686951703&perks=202670084,1885400500,957782887,2697220197#notes:izTrippn - PvP God roll
+//--------------------------------------------------
+
 // munition ID code [3454326177//OMNISCIENT EYE]
 //--------------------------------------------------
 dimwishlist:item=3454326177&perks=202670084,3142289711,3513791699,957782887,2697220197#notes:izTrippn - PvP God roll
