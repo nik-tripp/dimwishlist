@@ -82,14 +82,14 @@ dimwishlist:item=4095896073&perks=2866798147,588594999#notes:izTrippn - PvP max 
 ////////////////////////////////////////////////////
 
 // BEGIN [FUSION RIFLE]
-// BEGIN FUSION RIFLE//[subcategory]
+// BEGIN FUSION RIFLE//[RAPID-FIRE FRAME]
 
-// munition ID code [id//NAME]
+// munition ID code [2209003210//ZEALOT'S REWARD]
 //--------------------------------------------------
-<munition data>
+dimwishlist:item=2209003210&perks=2779035018#notes:izTrippn - PvE. Do you hate having ammo reserves? This is the group clearing gun for you!
 //--------------------------------------------------
 
-// END FUSION RIFLE//[subcategory]
+// END FUSION RIFLE//[RAPID-FIRE FRAME]
 // END [FUSION RIFLE]
 
 ////////////////////////////////////////////////////
