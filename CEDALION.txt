@@ -153,6 +153,28 @@ dimwishlist:item=834081972&perks=1926090095,1885400500,2846385770,957782887,2697
 
 ////////////////////////////////////////////////////
 
+// BEGIN [MACHINE GUN]
+// BEGIN MACHINE GUN//[HIGH-IMPACT FRAME]
+
+// munition ID code [id//BANE OF SORROW]
+//--------------------------------------------------
+dimwishlist:item=1496419775&perks=202670084,1561002382,1890422124,2213355989,2697220197#notes:izTrippn - PvP max range. TtT should compensate for abysmal stability. Require CB stock.
+dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171#notes:izTrippn - PvE curated
+dimwishlist:item=1496419775&perks=2779035018,3425386926#notes:izTrippn - PvE adds clearance
+dimwishlist:item=1496419775&perks=1890422124#notes:izTrippn - PvP plausible perk. Require CB stock
+dimwishlist:item=1496419775&perks=3523296417#notes:izTrippn - PvE
+dimwishlist:item=1496419775&perks=3425386926#notes:izTrippn - PvE
+dimwishlist:item=1496419775&perks=3513791699#notes:izTrippn - Seriously, what is this perk doing on an LMG?
+//--------------------------------------------------
+
+// END MACHINE GUN//[HIGH-IMPACT FRAME]
+// END [MACHINE GUN]
+
+////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////
+
 // BEGIN [PULSE RIFLE]
 // BEGIN PULSE RIFLE//[AGRESSIVE BURST]
 
