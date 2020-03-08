@@ -33,6 +33,21 @@ dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384
 //--------------------------------------------------
 
 // END AUTO RIFLE//[ADAPTIVE FRAME]
+// BEGIN subcategory AUTO RIFLE//[HIGH-IMPACT FRAME]
+
+// munition ID code [1286686760//GAHLRAN'S RIGHT HAND]
+//--------------------------------------------------
+dimwishlist:item=1286686760&perks=4090651448,1885400500,1890422124,2846385770,2697220197#notes:izTrippn - PvP primary. Recommend CB stock. This gun melts. This is a God Roll.
+dimwishlist:item=1286686760&perks=4090651448,1561002382,1890422124,2846385770,2697220197#notes:izTrippn - PvP primary. Recommend CB stock. This gun melts. This is a God Roll.
+dimwishlist:item=1286686760&perks=839105230,3177308360,3643424744,3523296417#notes:Curated
+dimwishlist:item=1286686760&perks=1168162263,2458213969#notes:izTrippn - PvE. This gun is fun, but these are really the only good PvE perks.
+dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - All-rounder. This should be decent perk synergy, but you only really want the bottom half of your mag.
+dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - PvP. Recommend backup mag to maximize stable rounds. Play the bottom of your mag well.
+dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - PvP. Recommend CB stock. Best perk combo on this gun.
+dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Recommend CB stock. Better than no stability-boost perk.
+//--------------------------------------------------
+
+// END CATEGORY//[SUBCATEGORY]
 // END [AUTO RIFLE]
 
 ////////////////////////////////////////////////////
