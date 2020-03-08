@@ -60,7 +60,9 @@ dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Re
 // munition ID code [id//ACCRUED REDEMPTION]
 //--------------------------------------------------
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133,1639384016#notes:izTrippn - PvP God roll (flinch + RoF + accuracy)
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926,1639384016#notes:izTrippn - PvE headshot machine
 dimwishlist:item=4095896073&perks=2801223209,201365942,247725512,1639384016#notes:izTrippn - PvP. Fabled "max rate of fire" roll
+dimwishlist:item=4095896073&perks=2866798147,588594999#notes:izTrippn - PvP max headshot odds, esp with hunter's Oathkeeper
 //--------------------------------------------------
 
 // END COMBAT BOW//[PRECISION FRAME]
