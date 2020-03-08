@@ -227,6 +227,16 @@ dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn
 dimwishlist:item=1982711279&perks=1482024992,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP Max range headshot machine
 //--------------------------------------------------
 
+// munition ID code [2338088853//CALUSEA NOBLESSE]
+//--------------------------------------------------
+dimwishlist:item=2338088853&perks=3661387068,3142289711,588594999,2846385770,2697220197#notes:izTrippn - PvP max range
+dimwishlist:item=2338088853&perks=3661387068,3177308360,588594999,2846385770,384158423#notes:izTrippn - PvP max stability God Roll
+dimwishlist:item=2338088853&perks=839105230,106909392,1354429876,4267945040#notes:izTrippn - PvE curated
+dimwishlist:item=2338088853&perks=2387244414,2846385770#notes:izTrippn - PvP acceptable perks
+dimwishlist:item=2338088853&perks=588594999,2846385770#notes:izTrippn - PvP best perks
+dimwishlist:item=2338088853&perks=588594999,2848615171#notes:izTrippn - PvE leaning all-rounder
+//--------------------------------------------------
+
 // END SCOUT RIFLE//[HIGH-IMPACT FRAME]
 // END [SCOUT RIFLE]
 
