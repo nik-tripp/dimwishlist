@@ -48,6 +48,15 @@ dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Re
 //--------------------------------------------------
 
 // END AUTO RIFLE//[HIGH-IMPACT FRAME]
+// BEGIN AUTO RIFLE//[RAPID-FIRE FRAME]
+
+// munition ID code [3385326721//RECKLESS ORACLE]
+//--------------------------------------------------
+dimwishlist:item=3385326721&perks=3177308360,1890422124,3400784728#notes:izTrippn - Curated, only way to get TtT
+dimwishlist:item=3385326721&perks=3400784728#notes:izTrippn - PvE. Plink forever!
+//--------------------------------------------------
+
+// END AUTO RIFLE//[RAPID-FIRE FRAME]
 // END [AUTO RIFLE]
 
 ////////////////////////////////////////////////////
