@@ -165,6 +165,15 @@ dimwishlist:item=834081972&perks=1926090095,1885400500,2846385770,957782887,2697
 //--------------------------------------------------
 
 // END HAND CANNON//[PRECISION FRAME]
+// BEGIN HAND CANNON//[ADAPTIVE FRAME]
+
+// munition ID code [48643186//ANCIENT GOSPEL]
+//--------------------------------------------------
+dimwishlist:item=48643186&perks=1482024992,3142289711,2846385770,2697220197#notes:izTrippn - PvP God roll. Slide shot is your best for column 4, but they are all mediocre
+dimwishlist:item=48643186&perks=1168162263,2848615171#notes:izTrippn - PvE. Hey look, it's Fatebringer!
+//--------------------------------------------------
+
+// END HAND CANNON//[ADAPTIVE FRAME]
 // END [HAND CANNON]
 
 ////////////////////////////////////////////////////
