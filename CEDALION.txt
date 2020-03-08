@@ -327,8 +327,15 @@ dimwishlist:item=3861448240&perks=1631667848,4082225868#notes:izTrippn - PvE exc
 dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:izTrippn - PvE curated
 //--------------------------------------------------
 
-
 // END SHOTGUN//[LIGHTWEIGHT FRAME]
+// BEGIN SHOTGUN//[PRECISION FRAME]
+
+// munition ID code [4020742303//PROPHET OF DOOM]
+//--------------------------------------------------
+dimwishlist:item=4020742303&perks=1332244541,3142289711,2117683199,47981717,2697220197#notes:izTrippn - PvP God roll
+//--------------------------------------------------
+
+// END SHOTGUN//[PRECISION FRAME]
 // END [SHOTGUN]
 
 ////////////////////////////////////////////////////
