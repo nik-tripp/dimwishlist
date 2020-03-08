@@ -220,6 +220,12 @@ dimwishlist:item=3843477312&perks=2414725840,3177308360,2387244414,3425386926,38
 dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Everyone creams over KC. I never remember to trigger it ¯\_(ツ)_/¯
 //--------------------------------------------------
 
+// munition ID code [1931556011//SACRED PROVENANCE]
+//--------------------------------------------------
+dimwishlist:item=2408405461&perks=3661387068,1885400500,2846385770,957782887,384158423#notes:izTrippn - PvP God roll. Require CB stock
+dimwishlist:item=2408405461&perks=280464955#notes:izTrippn - PvP curated, only source of firmly planted
+//--------------------------------------------------
+
 // END PULSE RIFLE//[AGRESSIVE BURST]
 // BEGIN PULSE RIFLE//[RAPID-FIRE FRAME]
 
