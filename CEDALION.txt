@@ -413,6 +413,14 @@ dimwishlist:item=3454326177&perks=202670084,3142289711,2866798147,957782887,2697
 dimwishlist:item=3454326177&perks=3513791699,2848615171#notes:izTrippn - PvE probably the most standout perk set
 //--------------------------------------------------
 
+// munition ID code [2807687156//DISTANT TUMULUS]
+//--------------------------------------------------
+dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,47981717,2697220197#notes:izTrippn - PvP God roll option
+dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,957782887,2697220197#notes:izTrippn - PvP God roll option
+dimwishlist:item=2807687156&perks=202670084,3142289711,47981717,2697220197#notes:izTrippn - PvP column 3 is generally pointless for this gun
+dimwishlist:item=2807687156&perks=202670084,3142289711,957782887,2697220197#notes:izTrippn - PvP column 3 is generally pointless for this gun
+//--------------------------------------------------
+
 // END SNIPER RIFLE//[RAPID-FIRE FRAME]
 // BEGIN SNIPER RIFLE//[ADAPTIVE FRAME]
 
