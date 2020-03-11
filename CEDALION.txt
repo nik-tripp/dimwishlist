@@ -342,6 +342,17 @@ dimwishlist:item=3861448240&perks=1631667848,4082225868#notes:izTrippn - PvE exc
 dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:izTrippn - PvE curated
 //--------------------------------------------------
 
+// munition ID code [1821724780//SEVENTH SERAPH CQC-12]
+//--------------------------------------------------
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391,2697220197#notes:Moof - PvP God Roll
+dimwishlist:item=1821724780&perks=1047830412,706527188,1546637391,2697220197#notes:Moof - PvP gravy
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391#notes:Moof - PvP gravy
+dimwishlist:item=1821724780&perks=1047830412,706527188,1546637391#notes:Moof - PvP this should be all the necessities
+dimwishlist:item=1821724780&perks=1047830412,706527188#notes:Moof - PvP
+dimwishlist:item=1821724780&perks=1047830412,957782887#notes:Moof - PvP this is okay, but you really want vorpal to take out melee supers instantly
+dimwishlist:item=1821724780&perks=706527188#notes:Moof - PvP bare minimum
+//--------------------------------------------------
+
 // END SHOTGUN//[LIGHTWEIGHT FRAME]
 // BEGIN SHOTGUN//[PRECISION FRAME]
 
