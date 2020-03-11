@@ -129,7 +129,7 @@ dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:izTripp
 // munition ID code [2112909414//DUKE MK-44]
 //--------------------------------------------------
 dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,588594999,2697220197#notes:izTrippn - PvP God roll. "All I do is crit crit crit, no matter what"
-dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE God till. Slow loading, recommend hunter class
+dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE God roll. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090094,47981717,1885400500,588594999,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,3425386926,2697220197#notes:izTrippn - PvE primary, TT will fix non-hunter reload times
 //--------------------------------------------------
@@ -138,6 +138,19 @@ dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,3425386926,2697
 //--------------------------------------------------
 dimwishlist:item=1178886909&perks=1926090092,1885400500,588594999,3425386926,384158423#notes:izTrippn - PvP/PvE primary God roll. Slow loading, recommend hunter class
 dimwishlist:item=1178886909&perks=1926090091,1885400500,706527188,47981717,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
+//--------------------------------------------------
+
+// munition ID code [2742838700//TRUE PROPHECY]
+//--------------------------------------------------
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3425386926,2697220197#notes:izTrippn - PvP/PVE primary God roll (DUKE IS BACK!)
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3425386926,384158423#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926,384158423#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926,2697220197#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3425386926#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=1926090095,2846385770,3425386926,2697220197#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=2846385770,3425386926,2697220197#notes:izTrippn - PvP/PvE
+dimwishlist:item=2742838700&perks=2846385770,3425386926#notes:izTrippn - PvP/PvE
 //--------------------------------------------------
 
 // END HAND CANNON//[AGRESSIVE FRAME]
