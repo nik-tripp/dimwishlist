@@ -101,8 +101,19 @@ dimwishlist:item=2209003210&perks=2779035018#notes:izTrippn - PvE. Do you hate h
 
 // munition ID code [736901634//DOOMSDAY]
 //--------------------------------------------------
-dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - this is a long-distance God Roll
-dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - this will kick extra comparative ass after the "high-impact" archetype becomes "rapid-fire"
+dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - PvE God Roll
+dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - PvE God perk combo
+//--------------------------------------------------
+
+// munition ID code [2257180473//INTERFERENCE VI]
+//--------------------------------------------------
+dimwishlist:item=2257180473&perks=1478423395,1380253176,2284787283,3523296417,3803457565#notes:izTrippn - PvP/PvE adds God roll
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110,1154004463#notes:izTrippn - PvE dps God roll
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110,1154004463#notes:izTrippn - PvE dps God roll
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#notes:izTrippn - PvE dps
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110,1154004463#notes:izTrippn - PvE dps
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:izTrippn - PvE dps
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:izTrippn - PvE dps
 //--------------------------------------------------
 
 // END GRENADE LAUNCHER//[ADAPTIVE FRAME]
