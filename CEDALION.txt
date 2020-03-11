@@ -117,7 +117,8 @@ dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - this wil
 
 // munition ID code [2112909414//DUKE MK-44]
 //--------------------------------------------------
-dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE primary. Slow loading, recommend hunter class
+dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,588594999,2697220197#notes:izTrippn - PvP God roll. "All I do is crit crit crit, no matter what"
+dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE God till. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090094,47981717,1885400500,588594999,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,3425386926,2697220197#notes:izTrippn - PvE primary, TT will fix non-hunter reload times
 //--------------------------------------------------
