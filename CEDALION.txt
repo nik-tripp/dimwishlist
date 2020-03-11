@@ -1,4 +1,4 @@
-title:V42NNI900CLS009 AI-COM/CHWT : GUARDIANS//FORCECON//DATA 
+title:V42NNI900CLS010 AI-COM/CHWT : GUARDIANS//FORCECON//DATA 
 description:override protocol MIDNIGHT EXIGENT to provide support for asset GUARDIANS
 
 // BEGIN munitions specification template
@@ -444,4 +444,4 @@ dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#no
 
 // END munitions specification data
 
-// STOP STOP STOP V222NNI900CLS009 
+// STOP STOP STOP V222NNI900CLS010 
