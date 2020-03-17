@@ -180,6 +180,24 @@ dimwishlist:item=410996590&perks=3523296417#notes:izTrippn - PvE Hard to go wron
 dimwishlist:item=410996590&perks=1820235745#notes:izTrippn - PvE Hard to go wrong with most of the perks this gets
 //--------------------------------------------------
 
+// munition ID code [2742838701//DIRE PROMISE]
+//--------------------------------------------------
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770,384158423#notes:izTrippn - PvP God roll
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770,384158423#notes:izTrippn - PvP God roll
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770,2697220197#notes:izTrippn - PvP demigod (need stability for spam cannons)
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770,2697220197#notes:izTrippn - PvP demigod (need stability for spam cannons)
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:izTrippn - PvP RIP your masterwork
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:izTrippn - PvP RIP your masterwork
+dimwishlist:item=2742838701&perks=1926090095,1561002382,2846385770#notes:izTrippn - PvP shoot for stability masterwork
+dimwishlist:item=2742838701&perks=1926090095,1885400500,2846385770#notes:izTrippn - PvP shoot for stability masterwork
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770#notes:izTrippn - PvP shoot for stability masterwork
+dimwishlist:item=2742838701&perks=1885400500,47981717,2846385770#notes:izTrippn - PvP shoot for stability masterwork
+dimwishlist:item=2742838701&perks=1561002382,2846385770,384158423#notes:izTrippn - PvP
+dimwishlist:item=2742838701&perks=1885400500,2846385770,384158423#notes:izTrippn - PvP
+dimwishlist:item=2742838701&perks=1561002382,2846385770#notes:izTrippn - PvP
+dimwishlist:item=2742838701&perks=1885400500,2846385770#notes:izTrippn - PvP
+//--------------------------------------------------
+
 // END HAND CANNON//[LIGHTWEIGHT FRAME]
 // BEGIN HAND CANNON//[DOUBLE FIRE]
 
