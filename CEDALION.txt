@@ -297,6 +297,13 @@ dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
 //--------------------------------------------------
 
 // END ROCKET LAUNCHER//[PRECISION FRAME]
+// BEGIN ROCKET LAUNCHER//[AGGRESSIVE FRAME]
+
+// munition ID code [id//MOS EPOCH III]
+//--------------------------------------------------
+//--------------------------------------------------
+
+// END ROCKET LAUNCHER//[AGGRESSIVE FRAME]
 // END [ROCKET LAUNCHER]
 
 ////////////////////////////////////////////////////
