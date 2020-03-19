@@ -301,6 +301,8 @@ dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
 
 // munition ID code [id//MOS EPOCH III]
 //--------------------------------------------------
+dimwishlist:item=1529450902&perks=981914802,3796465595,2846385770,957782887,1154004463#notes:izTrippn - PvE this+Divinity=Boss Melter
+dimwishlist:item=1529450902&perks=3796465595,2846385770#notes:izTrippn - PvE max your velocity+Divinity=Boss Melter
 //--------------------------------------------------
 
 // END ROCKET LAUNCHER//[AGGRESSIVE FRAME]
