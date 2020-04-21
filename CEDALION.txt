@@ -388,10 +388,11 @@ dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very st
 
 // munition ID code [3861448240//EMPEROR'S COURTESY]
 //--------------------------------------------------
+dimwishlist:item=3861448240&perks=1332244541,791862061,706527188,47981717,2697220197#notes:izTrippn - PvP God Roll
 dimwishlist:item=3861448240&perks=1047830412,3142289711,957782887,47981717,2697220197#notes:izTrippn - PvP God roll
-dimwishlist:item=3861448240&perks=1047830412,47981717#notes:izTrippn - PvP minimum
+dimwishlist:item=3861448240&perks=47981717#notes:izTrippn - PvP bare minimum (maximize range)
 dimwishlist:item=3861448240&perks=1631667848,4082225868#notes:izTrippn - PvE excellent synergy
-dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:izTrippn - PvE curated
+dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:izTrippn - PvE sex and candy with anything that buffs melee (personal favorite: top tree Arcstrider with liar's handshake)
 //--------------------------------------------------
 
 // munition ID code [1821724780//SEVENTH SERAPH CQC-12]
