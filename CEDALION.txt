@@ -406,6 +406,14 @@ dimwishlist:item=1821724780&perks=1047830412,957782887#notes:Moof - PvP this is 
 dimwishlist:item=1821724780&perks=706527188#notes:Moof - PvP bare minimum
 //--------------------------------------------------
 
+// munition ID code [1807343361//HAWTHORNE'S FIELD-FORGED SHOTGUN]
+//--------------------------------------------------
+dimwishlist:item=1807343361&perks=1332244541,791862061,47981717,2697220197#notes:izTrippn - PvP God roll (third column is largely irrelevant)
+dimwishlist:item=1807343361&perks=1332244541,3142289711,47981717,2697220197#notes:izTrippn - PvP max range (third column is largely irrelevant)
+dimwishlist:item=1807343361&perks=1332244541,679225683,47981717,2697220197#notes:izTrippn - PvP nearly max range (third column is largely irrelevant)
+dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:izTrippn - PvE sex and candy with anything that buffs melee (personal favorite: top tree Arcstrider with liar's handshake)
+//--------------------------------------------------
+
 // END SHOTGUN//[LIGHTWEIGHT FRAME]
 // BEGIN SHOTGUN//[PRECISION FRAME]
 
