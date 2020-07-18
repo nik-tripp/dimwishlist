@@ -266,10 +266,20 @@ dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Eve
 // munition ID code [1931556011//SACRED PROVENANCE]
 //--------------------------------------------------
 dimwishlist:item=2408405461&perks=3661387068,1885400500,2846385770,957782887,384158423#notes:izTrippn - PvP God roll. Require CB stock
-dimwishlist:item=2408405461&perks=280464955#notes:izTrippn - PvP curated, only source of firmly planted
 //--------------------------------------------------
 
 // END PULSE RIFLE//[AGRESSIVE BURST]
+// BEGIN PULSE RIFLE//[HIGH-IMPACT FRAME]
+
+// munition ID code [1216130969//COLD DENIAL]
+//--------------------------------------------------
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080,2697220197#notes:izTrippn - PvP God roll. Recommend backup mag.
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,460017080,384158423#notes:izTrippn - PvP God roll. Recommend backup mag.
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080,384158423#notes:izTrippn - PvP Recommend backup mag.
+dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:izTrippn - PvP Recommend backup mag. Aim for extra range.
+//--------------------------------------------------
+
+// END PULSE RIFLE//[HIGH-IMPACT FRAME]
 // BEGIN PULSE RIFLE//[RAPID-FIRE FRAME]
 
 // munition ID code [1071542914//HORROR'S LEAST]
