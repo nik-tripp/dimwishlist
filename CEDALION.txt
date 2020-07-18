@@ -509,11 +509,12 @@ dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#no
 ////////////////////////////////////////////////////
 
 // BEGIN [SWORD]
-// BEGIN SWORD//[subcategory]
+// BEGIN SWORD//[VORTEX FRAME]
 
-// munition ID code [id//NAME]
+// munition ID code [614426548//FALLING GUILLOTINE]
 //--------------------------------------------------
-<munition data>
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,34864983378#notes:izTrippn - PvE God roll
+dimwishlist:item=614426548&perks=1749209109,3913600130,34864983378:izTrippn - PvE aim for max impact, avoid heavy guard
 //--------------------------------------------------
 
 // END SWORD//[subcategory]
