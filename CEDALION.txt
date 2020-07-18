@@ -522,11 +522,21 @@ dimwishlist:item=614426548&perks=1749209109,3913600130,34864983378:izTrippn - Pv
 
 // munition ID code [35794111//TEMPTATION'S HOOK]
 //--------------------------------------------------
-dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391,3486498337#notes:izTrippn - All-rounder God roll
-dimwishlist:item=35794111&perks=2590710093,1546637391,3486498337#notes:izTrippn - All-rounder. Maximize impact, avoid heavy guard
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391,3486498337#notes:izTrippn - PvE God roll
+dimwishlist:item=35794111&perks=1261178282,2349202967,2590710093,1546637391,3486498337#notes:izTrippn - PvP God roll
+dimwishlist:item=35794111&perks=2590710093,1546637391,3486498337#notes:izTrippn - All-rounder. PvE:Maximize impact, avoid heavy guard, PvP: Maximize reserves, avoid swordmaster's guard.
 //--------------------------------------------------
 
 // END SWORD//[CASTER FRAME]
+// BEGIN SWORD//[ADAPTIVE FRAME]
+
+// munition ID code [4230993599//STEEL SYBIL Z-14]
+//--------------------------------------------------
+dimwishlist:item=4230993599&perks=1261178282,2349202967,2590710093,354401740,3486498337#notes:izTrippn - PvP God roll
+dimwishlist:item=4230993599&perks=2590710093,354401740,3486498337#notes:izTrippn - PvP. Maximize reserves, avoid swordmaster's guard
+//--------------------------------------------------
+
+// END SWORD//[ADAPTIVE FRAME]
 // END [SWORD]
 
 ////////////////////////////////////////////////////
