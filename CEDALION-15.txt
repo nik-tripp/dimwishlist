@@ -1,4 +1,4 @@
-title:V42NNI900CLS010 AI-COM/CEDALION : GUARDIANS//FORCECON//DATA 
+title:V42NNI900CLS015 AI-COM/CEDALION : GUARDIANS//FORCECON//DATA 
 description:execute HELIOS LIGHT protocol to support asset GUARDIANS
 
 // BEGIN munitions specification template
@@ -19,3 +19,14 @@ description:execute HELIOS LIGHT protocol to support asset GUARDIANS
 ////////////////////////////////////////////////////
 
 // END munitions specification template
+
+// BEGIN munitions specification data
+
+////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////
+
+// END munitions specification data
+
+// STOP STOP STOP V222NNI900CLS015
+
