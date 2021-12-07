@@ -37,6 +37,7 @@ dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3425386926,384
 
 // munition ID code [1286686760//GAHLRAN'S RIGHT HAND]
 //--------------------------------------------------
+
 dimwishlist:item=1286686760&perks=4090651448,1885400500,1890422124,2846385770,2697220197#notes:izTrippn - PvP primary. Recommend CB stock. This gun melts. This is a God Roll.
 dimwishlist:item=1286686760&perks=4090651448,1561002382,1890422124,2846385770,2697220197#notes:izTrippn - PvP primary. Recommend CB stock. This gun melts. This is a God Roll.
 dimwishlist:item=1286686760&perks=839105230,3177308360,3643424744,3523296417#notes:Curated
@@ -45,6 +46,7 @@ dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - All-rou
 dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - PvP. Recommend backup mag to maximize stable rounds. Play the bottom of your mag well.
 dimwishlist:item=1286686760&perks=1645158859,2213355989#notes:izTrippn - PvP. Recommend CB stock. Best perk combo on this gun.
 dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Recommend CB stock. Better than no stability-boost perk.
+
 //--------------------------------------------------
 
 // END AUTO RIFLE//[HIGH-IMPACT FRAME]
@@ -52,8 +54,10 @@ dimwishlist:item=1286686760&perks=2387244414,2846385770#notes:izTrippn - PvP. Re
 
 // munition ID code [3385326721//RECKLESS ORACLE]
 //--------------------------------------------------
+
 dimwishlist:item=3385326721&perks=3177308360,1890422124,3400784728#notes:izTrippn - Curated, only way to get TtT
 dimwishlist:item=3385326721&perks=3400784728#notes:izTrippn - PvE. Plink forever!
+
 //--------------------------------------------------
 
 // END AUTO RIFLE//[RAPID-FIRE FRAME]
@@ -68,10 +72,12 @@ dimwishlist:item=3385326721&perks=3400784728#notes:izTrippn - PvE. Plink forever
 
 // munition ID code [id//ACCRUED REDEMPTION]
 //--------------------------------------------------
+
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133,1639384016#notes:izTrippn - PvP God roll (flinch + RoF + accuracy)
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926,1639384016#notes:izTrippn - PvE headshot machine
 dimwishlist:item=4095896073&perks=2801223209,201365942,247725512,1639384016#notes:izTrippn - PvP. Fabled "max rate of fire" roll
 dimwishlist:item=4095896073&perks=2866798147,588594999#notes:izTrippn - PvP max headshot odds, esp with hunter's Oathkeeper
+
 //--------------------------------------------------
 
 // END COMBAT BOW//[PRECISION FRAME]
@@ -86,7 +92,9 @@ dimwishlist:item=4095896073&perks=2866798147,588594999#notes:izTrippn - PvP max 
 
 // munition ID code [2209003210//ZEALOT'S REWARD]
 //--------------------------------------------------
+
 dimwishlist:item=2209003210&perks=2779035018#notes:izTrippn - PvE. Do you hate having ammo reserves? This is the group clearing gun for you!
+
 //--------------------------------------------------
 
 // END FUSION RIFLE//[RAPID-FIRE FRAME]
@@ -101,12 +109,15 @@ dimwishlist:item=2209003210&perks=2779035018#notes:izTrippn - PvE. Do you hate h
 
 // munition ID code [736901634//DOOMSDAY]
 //--------------------------------------------------
+
 dimwishlist:item=736901634&perks=3525010810,1380253176,2846385770,2888557110,1154004463#notes:izTrippn - PvE God Roll
 dimwishlist:item=736901634&perks=1380253176,2888557110#notes:izTrippn - PvE God perk combo
+
 //--------------------------------------------------
 
 // munition ID code [2257180473//INTERFERENCE VI]
 //--------------------------------------------------
+
 dimwishlist:item=2257180473&perks=1478423395,1380253176,2284787283,3523296417,3803457565#notes:izTrippn - PvP/PvE adds God roll
 dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110,1154004463#notes:izTrippn - PvE dps God roll
 dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110,1154004463#notes:izTrippn - PvE dps God roll
@@ -114,6 +125,7 @@ dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#not
 dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110,1154004463#notes:izTrippn - PvE dps
 dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:izTrippn - PvE dps
 dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:izTrippn - PvE dps
+
 //--------------------------------------------------
 
 // END GRENADE LAUNCHER//[ADAPTIVE FRAME]
@@ -128,20 +140,25 @@ dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:izTripp
 
 // munition ID code [2112909414//DUKE MK-44]
 //--------------------------------------------------
+
 dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,588594999,2697220197#notes:izTrippn - PvP God roll. "All I do is crit crit crit, no matter what"
 dimwishlist:item=2112909414&perks=1926090095,2846385770,1885400500,3425386926,2697220197#notes:izTrippn - PvP/PvE God roll. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090094,47981717,1885400500,588594999,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
 dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,3425386926,2697220197#notes:izTrippn - PvE primary, TT will fix non-hunter reload times
+
 //--------------------------------------------------
 
 // munition ID code [1178886909//THIN LINE]
 //--------------------------------------------------
+
 dimwishlist:item=1178886909&perks=1926090092,1885400500,588594999,3425386926,384158423#notes:izTrippn - PvP/PvE primary God roll. Slow loading, recommend hunter class
 dimwishlist:item=1178886909&perks=1926090091,1885400500,706527188,47981717,2697220197#notes:izTrippn - PvP sniper cleanup. Slow loading, recommend hunter class
+
 //--------------------------------------------------
 
 // munition ID code [2742838700//TRUE PROPHECY]
 //--------------------------------------------------
+
 dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3425386926,2697220197#notes:izTrippn - PvP/PVE primary God roll (DUKE IS BACK!)
 dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3425386926,384158423#notes:izTrippn - PvP/PvE
 dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926,384158423#notes:izTrippn - PvP/PvE
@@ -151,6 +168,7 @@ dimwishlist:item=2742838700&perks=1926090095,2846385770,3425386926,2697220197#no
 dimwishlist:item=2742838700&perks=3142289711,2846385770,3425386926#notes:izTrippn - PvP/PvE
 dimwishlist:item=2742838700&perks=2846385770,3425386926,2697220197#notes:izTrippn - PvP/PvE
 dimwishlist:item=2742838700&perks=2846385770,3425386926#notes:izTrippn - PvP/PvE
+
 //--------------------------------------------------
 
 // END HAND CANNON//[AGRESSIVE FRAME]
@@ -158,30 +176,37 @@ dimwishlist:item=2742838700&perks=2846385770,3425386926#notes:izTrippn - PvP/PvE
 
 // munition ID code [3116356268//SPARE RATIONS]
 //--------------------------------------------------
+
 dimwishlist:item=3116356268&perks=1840239774,1968497646,4071163871,4082225868,186337601#notes:izTrippn - PvE. Get in close, have a ball
 dimwishlist:item=3116356268&perks=1482024992,1885400500,957782887,588594999,2697220197#notes:izTrippn - PvP (probably best balance)
 dimwishlist:item=3116356268&perks=202670084,1885400500,957782887,2846385770,2697220197#notes:izTrippn - PvP (max range)
+
 //--------------------------------------------------
 
 // munition ID code [334171687//WAKING VIGIL]
 //--------------------------------------------------
+
 dimwishlist:item=334171687&perks=1926090092,1885400500,2387244414,957782887,2697220197#notes:izTrippn - PvP this is as good as this gets
 dimwishlist:item=334171687&perks=1885400500,2387244414,957782887#notes:izTrippn - PvE Most of the other perks in these slots are garbage
 dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
 dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
 dimwishlist:item=334171687&perks=1885400500,2387244414,2848615171#notes:izTrippn - PvE Most of the other perks in these slots are garbage
+
 //--------------------------------------------------
 
 // munition ID code [410996590//JACK QUEEN KING 3]
 //--------------------------------------------------
+
 dimwishlist:item=410996590&perks=1926090092,1885400500,3523296417,957782887,2697220197#notes:izTrippn - PvP About as good as this gets
 dimwishlist:item=410996590&perks=1926090094,4071163871,3708227201#notes:izTrippn - PvE This synergy is the only reason to have threat detector
 dimwishlist:item=410996590&perks=3523296417#notes:izTrippn - PvE Hard to go wrong with most of the perks this gets
 dimwishlist:item=410996590&perks=1820235745#notes:izTrippn - PvE Hard to go wrong with most of the perks this gets
+
 //--------------------------------------------------
 
 // munition ID code [2742838701//DIRE PROMISE]
 //--------------------------------------------------
+
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770,384158423#notes:izTrippn - PvP God roll
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770,384158423#notes:izTrippn - PvP God roll
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770,2697220197#notes:izTrippn - PvP demigod (need stability for spam cannons)
@@ -196,6 +221,7 @@ dimwishlist:item=2742838701&perks=1561002382,2846385770,384158423#notes:izTrippn
 dimwishlist:item=2742838701&perks=1885400500,2846385770,384158423#notes:izTrippn - PvP
 dimwishlist:item=2742838701&perks=1561002382,2846385770#notes:izTrippn - PvP
 dimwishlist:item=2742838701&perks=1885400500,2846385770#notes:izTrippn - PvP
+
 //--------------------------------------------------
 
 // END HAND CANNON//[LIGHTWEIGHT FRAME]
@@ -203,9 +229,11 @@ dimwishlist:item=2742838701&perks=1885400500,2846385770#notes:izTrippn - PvP
 
 // munition ID code [233423981//WARDEN'S LAW]
 //--------------------------------------------------
+
 dimwishlist:item=233423981&perks=1926090095,1885400500,3425386926,588594999,384158423#notes:izTrippn - PvP this might suck, but I wanna try it
 dimwishlist:item=233423981&perks=1926090093,1885400500,3425386926,2387244414#notes:izTrippn - Curated, could be fun
 dimwishlist:item=233423981&perks=1926090095,3177308360,2387244414,588594999,384158423#notes:izTrippn - PvP probably the only way this 2-shot burst business could be viable
+
 //--------------------------------------------------
 
 // END HAND CANNON//[DOUBLE FIRE]
@@ -213,7 +241,9 @@ dimwishlist:item=233423981&perks=1926090095,3177308360,2387244414,588594999,3841
 
 // munition ID code [834081972//SERVICE REVOLVER]
 //--------------------------------------------------
+
 dimwishlist:item=834081972&perks=1926090095,1885400500,2846385770,957782887,2697220197#notes:izTrippn - PvP internet says this archetype is good at the mid-range plinks, and this should buy all the aim assist
+
 //--------------------------------------------------
 
 // END HAND CANNON//[PRECISION FRAME]
@@ -221,8 +251,10 @@ dimwishlist:item=834081972&perks=1926090095,1885400500,2846385770,957782887,2697
 
 // munition ID code [48643186//ANCIENT GOSPEL]
 //--------------------------------------------------
+
 dimwishlist:item=48643186&perks=1482024992,3142289711,2846385770,2697220197#notes:izTrippn - PvP God roll. Slide shot is your best for column 4, but they are all mediocre
 dimwishlist:item=48643186&perks=1168162263,2848615171#notes:izTrippn - PvE. Hey look, it's Fatebringer!
+
 //--------------------------------------------------
 
 // END HAND CANNON//[ADAPTIVE FRAME]
@@ -237,6 +269,7 @@ dimwishlist:item=48643186&perks=1168162263,2848615171#notes:izTrippn - PvE. Hey 
 
 // munition ID code [id//BANE OF SORROW]
 //--------------------------------------------------
+
 dimwishlist:item=1496419775&perks=202670084,1561002382,1890422124,2213355989,2697220197#notes:izTrippn - PvP max range. TtT should compensate for abysmal stability. Require CB stock.
 dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171#notes:izTrippn - PvE curated
 dimwishlist:item=1496419775&perks=2779035018,3425386926#notes:izTrippn - PvE adds clearance
@@ -244,6 +277,7 @@ dimwishlist:item=1496419775&perks=1890422124#notes:izTrippn - PvP plausible perk
 dimwishlist:item=1496419775&perks=3523296417#notes:izTrippn - PvE
 dimwishlist:item=1496419775&perks=3425386926#notes:izTrippn - PvE
 dimwishlist:item=1496419775&perks=3513791699#notes:izTrippn - Seriously, what is this perk doing on an LMG?
+
 //--------------------------------------------------
 
 // END MACHINE GUN//[HIGH-IMPACT FRAME]
@@ -259,13 +293,17 @@ dimwishlist:item=1496419775&perks=3513791699#notes:izTrippn - Seriously, what is
 
 // munition ID code [1931556011//BLAST FURNACE]
 //--------------------------------------------------
+
 dimwishlist:item=3843477312&perks=2414725840,3177308360,2387244414,3425386926,384158423#notes:izTrippn - PvP point at head. Pull trigger until dead.
 dimwishlist:item=3843477312&perks=2779035018,1015611457#notes:izTrippn - PvP Everyone creams over KC. I never remember to trigger it ¯\_(ツ)_/¯
+
 //--------------------------------------------------
 
 // munition ID code [1931556011//SACRED PROVENANCE]
 //--------------------------------------------------
+
 dimwishlist:item=2408405461&perks=3661387068,1885400500,2846385770,957782887,384158423#notes:izTrippn - PvP God roll. Require CB stock
+
 //--------------------------------------------------
 
 // END PULSE RIFLE//[AGRESSIVE BURST]
@@ -273,10 +311,12 @@ dimwishlist:item=2408405461&perks=3661387068,1885400500,2846385770,957782887,384
 
 // munition ID code [1216130969//COLD DENIAL]
 //--------------------------------------------------
+
 dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080,2697220197#notes:izTrippn - PvP God roll. Recommend backup mag.
 dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,460017080,384158423#notes:izTrippn - PvP God roll. Recommend backup mag.
 dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080,384158423#notes:izTrippn - PvP Recommend backup mag.
 dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:izTrippn - PvP Recommend backup mag. Aim for extra range.
+
 //--------------------------------------------------
 
 // END PULSE RIFLE//[HIGH-IMPACT FRAME]
@@ -284,7 +324,9 @@ dimwishlist:item=1216130969&perks=839105230,2450788523,460017080#notes:izTrippn 
 
 // munition ID code [1071542914//HORROR'S LEAST]
 //--------------------------------------------------
+
 dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,384158423#notes:izTrippn - PvP put a CB stock on it and you'll have perfect recoil direction
+
 //--------------------------------------------------
 
 // END subcategory PULSE RIFLE//[RAPID-FIRE FRAME]
@@ -299,11 +341,13 @@ dimwishlist:item=1071542914&perks=839105230,1885400500,2387244414,588594999,3841
 
 // munition ID code [1289324202//PYROCLASTIC FLOW]
 //--------------------------------------------------
+
 dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761,1154004463#notes:izTrippn - PvE. Boss DPS w/max velocity (my personal God roll)
 dimwishlist:item=1289324202&perks=3796465595,2010801679,1275731761#notes:izTrippn - PvE. Maximized boss DPS.
 dimwishlist:item=1289324202&perks=3796465595,1275731761#notes:izTrippn - PvE. Boss DPS.
 dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:izTrippn - PvE. Kill all the things.
 dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
+
 //--------------------------------------------------
 
 // END ROCKET LAUNCHER//[PRECISION FRAME]
@@ -311,8 +355,10 @@ dimwishlist:item=1289324202&perks=1275731761#notes:izTrippn - PvE
 
 // munition ID code [id//MOS EPOCH III]
 //--------------------------------------------------
+
 dimwishlist:item=1529450902&perks=981914802,3796465595,2846385770,957782887,1154004463#notes:izTrippn - PvE this+Divinity=Boss Melter
 dimwishlist:item=1529450902&perks=3796465595,2846385770#notes:izTrippn - PvE max your velocity+Divinity=Boss Melter
+
 //--------------------------------------------------
 
 // END ROCKET LAUNCHER//[AGGRESSIVE FRAME]
@@ -342,7 +388,9 @@ dimwishlist:item=1529450902&perks=3796465595,2846385770#notes:izTrippn - PvE max
 
 // munition ID code [1931556011//NO FEELINGS]
 //--------------------------------------------------
+
 dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn - PvP Trigger Box breathing, three tap, repeat
+
 //--------------------------------------------------
 
 // END SCOUT RIFLE//[PRECISION FRAME]
@@ -350,17 +398,21 @@ dimwishlist:item=1931556011&perks=3177308360,2551157718,384158423#notes:izTrippn
 
 // munition ID code [1982711279//TALONS OF THE EAGLE]
 //--------------------------------------------------
+
 dimwishlist:item=1982711279&perks=1482024992,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP Max range headshot machine
+
 //--------------------------------------------------
 
 // munition ID code [2338088853//CALUSEA NOBLESSE]
 //--------------------------------------------------
+
 dimwishlist:item=2338088853&perks=3661387068,3142289711,588594999,2846385770,2697220197#notes:izTrippn - PvP max range
 dimwishlist:item=2338088853&perks=3661387068,3177308360,588594999,2846385770,384158423#notes:izTrippn - PvP max stability God Roll
 dimwishlist:item=2338088853&perks=839105230,106909392,1354429876,4267945040#notes:izTrippn - PvE curated
 dimwishlist:item=2338088853&perks=2387244414,2846385770#notes:izTrippn - PvP acceptable perks
 dimwishlist:item=2338088853&perks=588594999,2846385770#notes:izTrippn - PvP best perks
 dimwishlist:item=2338088853&perks=588594999,2848615171#notes:izTrippn - PvE leaning all-rounder
+
 //--------------------------------------------------
 
 // END SCOUT RIFLE//[HIGH-IMPACT FRAME]
@@ -375,13 +427,17 @@ dimwishlist:item=2338088853&perks=588594999,2848615171#notes:izTrippn - PvE lean
 
 // munition ID code [2919334548//IMPERIAL DECREE]
 //--------------------------------------------------
+
 dimwishlist:item=2919334548&perks=1047830412,3142289711,957782887,2697220197#notes:izTrippn - PvP Max range those MFs
+
 //--------------------------------------------------
 
 // munition ID code [4117693024//MINDBENDER'S AMBITION]
 //--------------------------------------------------
+
 dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,706527188,2697220197#notes:izTrippn - This is a God Roll, and you know why it's here.
 dimwishlist:item=4117693024&perks=1332244541,3177308360,47981717,3425386926#notes:izTrippn - PvE Curated. Should do you justice while mowing things down
+
 //--------------------------------------------------
 
 // END SHOTGUN//[AGRESSIVE FRAME]
@@ -389,8 +445,10 @@ dimwishlist:item=4117693024&perks=1332244541,3177308360,47981717,3425386926#note
 
 // munition ID code [3393519051//PERFECT PARADOX]
 //--------------------------------------------------
+
 dimwishlist:item=3393519051&perks=1300023272,106909392,3523296417,2360754333,384158423#notes:izTrippn - PvE God roll
 dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very strong PvE perks here
+
 //--------------------------------------------------
 
 // END SHOTGUN//[RAPID-FIRE FRAME]
@@ -398,15 +456,18 @@ dimwishlist:item=3393519051&perks=3523296417,2360754333#notes:izTrippn - Very st
 
 // munition ID code [3861448240//EMPEROR'S COURTESY]
 //--------------------------------------------------
+
 dimwishlist:item=3861448240&perks=1332244541,791862061,706527188,47981717,2697220197#notes:izTrippn - PvP God Roll
 dimwishlist:item=3861448240&perks=1047830412,3142289711,957782887,47981717,2697220197#notes:izTrippn - PvP God roll
 dimwishlist:item=3861448240&perks=47981717#notes:izTrippn - PvP bare minimum (maximize range)
 dimwishlist:item=3861448240&perks=1631667848,4082225868#notes:izTrippn - PvE excellent synergy
 dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:izTrippn - PvE sex and candy with anything that buffs melee (personal favorite: top tree Arcstrider with liar's handshake)
+
 //--------------------------------------------------
 
 // munition ID code [1821724780//SEVENTH SERAPH CQC-12]
 //--------------------------------------------------
+
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391,2697220197#notes:Moof - PvP God Roll
 dimwishlist:item=1821724780&perks=1047830412,706527188,1546637391,2697220197#notes:Moof - PvP gravy
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391#notes:Moof - PvP gravy
@@ -414,14 +475,17 @@ dimwishlist:item=1821724780&perks=1047830412,706527188,1546637391#notes:Moof - P
 dimwishlist:item=1821724780&perks=1047830412,706527188#notes:Moof - PvP
 dimwishlist:item=1821724780&perks=1047830412,957782887#notes:Moof - PvP this is okay, but you really want vorpal to take out melee supers instantly
 dimwishlist:item=1821724780&perks=706527188#notes:Moof - PvP bare minimum
+
 //--------------------------------------------------
 
 // munition ID code [1807343361//HAWTHORNE'S FIELD-FORGED SHOTGUN]
 //--------------------------------------------------
+
 dimwishlist:item=1807343361&perks=1332244541,791862061,47981717,2697220197#notes:izTrippn - PvP God roll (third column is largely irrelevant)
 dimwishlist:item=1807343361&perks=1332244541,3142289711,47981717,2697220197#notes:izTrippn - PvP max range (third column is largely irrelevant)
 dimwishlist:item=1807343361&perks=1332244541,679225683,47981717,2697220197#notes:izTrippn - PvP nearly max range (third column is largely irrelevant)
 dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:izTrippn - PvE sex and candy with anything that buffs melee (personal favorite: top tree Arcstrider with liar's handshake)
+
 //--------------------------------------------------
 
 // END SHOTGUN//[LIGHTWEIGHT FRAME]
@@ -429,7 +493,9 @@ dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:izTrippn - PvE sex
 
 // munition ID code [4020742303//PROPHET OF DOOM]
 //--------------------------------------------------
+
 dimwishlist:item=4020742303&perks=1332244541,3142289711,2117683199,47981717,2697220197#notes:izTrippn - PvP God roll
+
 //--------------------------------------------------
 
 // END SHOTGUN//[PRECISION FRAME]
@@ -444,14 +510,18 @@ dimwishlist:item=4020742303&perks=1332244541,3142289711,2117683199,47981717,2697
 
 // munition ID code [1071542914//LAST HOPE]
 //--------------------------------------------------
+
 dimwishlist:item=3622137132&perks=445755710,1561002382,2846385770,1890422124,2697220197#notes:izTrippn - PvP God Roll. This will reach their face, stay there, and blind them
 dimwishlist:item=3622137132&perks=1561002382,1890422124#notes:izTrippn - PvP incredible stability + blinding headshots + extra flinch
+
 //--------------------------------------------------
 
 // munition ID code [2009277538//THE LAST DANCE]
 //--------------------------------------------------
+
 dimwishlist:item=2009277538&perks=445755710,1561002382,588594999,1890422124,2697220197#notes:izTrippn - PvP blinding, high flinch, long range, and sticky. no brainer
 dimwishlist:item=2009277538&perks=1561002382,1890422124#notes:izTrippn - PvP blinding lazer pointer with high flinch
+
 //--------------------------------------------------
 
 // END SIDEARM//[OMOLON ADAPTIVE FRAME]
@@ -466,29 +536,37 @@ dimwishlist:item=2009277538&perks=1561002382,1890422124#notes:izTrippn - PvP bli
 
 // munition ID code [3297863558//TWILIGHT OATH]
 //--------------------------------------------------
+
 dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,2848615171,2697220197#notes:izTrippn - PvP max range for aim assist, firefly for messing with clustered teams
 dimwishlist:item=3297863558&perks=202670084,3142289711,47981717,2697220197#notes:izTrippn - PvP max range, hopefully get that aim assist in there
 dimwishlist:item=3297863558&perks=3661387068,3177308360,957782887,2551157718#notes:iztrippn - Curated, the only way to get snapshot. Use it well.
+
 //--------------------------------------------------
 
 // munition ID code [3297863558//THE SUPREMACY]
 //--------------------------------------------------
+
 dimwishlist:item=686951703&perks=202670084,1885400500,957782887,2697220197#notes:izTrippn - PvP God roll
+
 //--------------------------------------------------
 
 // munition ID code [3454326177//OMNISCIENT EYE]
 //--------------------------------------------------
+
 dimwishlist:item=3454326177&perks=202670084,3142289711,3513791699,957782887,2697220197#notes:izTrippn - PvP God roll
 dimwishlist:item=3454326177&perks=202670084,3142289711,2866798147,957782887,2697220197#notes:izTrippn - PvP God roll
 dimwishlist:item=3454326177&perks=3513791699,2848615171#notes:izTrippn - PvE probably the most standout perk set
+
 //--------------------------------------------------
 
 // munition ID code [2807687156//DISTANT TUMULUS]
 //--------------------------------------------------
+
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,47981717,2697220197#notes:izTrippn - PvP God roll option
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,957782887,2697220197#notes:izTrippn - PvP God roll option
 dimwishlist:item=2807687156&perks=202670084,3142289711,47981717,2697220197#notes:izTrippn - PvP column 3 is generally pointless for this gun
 dimwishlist:item=2807687156&perks=202670084,3142289711,957782887,2697220197#notes:izTrippn - PvP column 3 is generally pointless for this gun
+
 //--------------------------------------------------
 
 // END SNIPER RIFLE//[RAPID-FIRE FRAME]
@@ -496,9 +574,11 @@ dimwishlist:item=2807687156&perks=202670084,3142289711,957782887,2697220197#note
 
 // munition ID code [3297863558//BELOVED]
 //--------------------------------------------------
+
 dimwishlist:item=4190932264&perks=202670084,3142289711,280464955,588594999,2697220197#notes:izTrippn - PvP max range, for sticky aim assist
-dimwishlist:item=4190932264&perks=957782887,706527188#notes:izTrippn - PvP if you're Moof and use snipers as a panic weapon
+dimwishlist:item=4190932264&perks=957782887,706527188#notes:izTrippn - PvP if you're AccuRat and use snipers as a panic weapon
 dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#notes:izTrippn - Curated, fun for sniper fantasies
+
 //--------------------------------------------------
 
 // END SNIPER RIFLE//[ADAPTIVE FRAME]
@@ -513,8 +593,10 @@ dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718#no
 
 // munition ID code [614426548//FALLING GUILLOTINE]
 //--------------------------------------------------
+
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,34864983378#notes:izTrippn - PvE God roll
 dimwishlist:item=614426548&perks=1749209109,3913600130,34864983378:izTrippn - PvE. Maximize impact, avoid heavy guard
+
 //--------------------------------------------------
 
 // END SWORD//[VORTEX FRAME]
@@ -522,9 +604,11 @@ dimwishlist:item=614426548&perks=1749209109,3913600130,34864983378:izTrippn - Pv
 
 // munition ID code [35794111//TEMPTATION'S HOOK]
 //--------------------------------------------------
+
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391,3486498337#notes:izTrippn - PvE God roll
 dimwishlist:item=35794111&perks=1261178282,2349202967,2590710093,1546637391,3486498337#notes:izTrippn - PvP God roll
 dimwishlist:item=35794111&perks=2590710093,1546637391,3486498337#notes:izTrippn - All-rounder. PvE:Maximize impact, avoid heavy guard, PvP: Maximize reserves, avoid swordmaster's guard.
+
 //--------------------------------------------------
 
 // END SWORD//[CASTER FRAME]
@@ -532,8 +616,10 @@ dimwishlist:item=35794111&perks=2590710093,1546637391,3486498337#notes:izTrippn 
 
 // munition ID code [4230993599//STEEL SYBIL Z-14]
 //--------------------------------------------------
+
 dimwishlist:item=4230993599&perks=1261178282,2349202967,2590710093,354401740,3486498337#notes:izTrippn - PvP God roll
 dimwishlist:item=4230993599&perks=2590710093,354401740,3486498337#notes:izTrippn - PvP. Maximize reserves, avoid swordmaster's guard
+
 //--------------------------------------------------
 
 // END SWORD//[ADAPTIVE FRAME]
@@ -543,4 +629,4 @@ dimwishlist:item=4230993599&perks=2590710093,354401740,3486498337#notes:izTrippn
 
 // END munitions specification data
 
-// STOP STOP STOP V222NNI900CLS010 
+// STOP STOP STOP V222NNI900CLS010
