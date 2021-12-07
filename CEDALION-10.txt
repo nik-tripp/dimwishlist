@@ -1,5 +1,5 @@
-title:V42NNI900CLS010 AI-COM/BURN : GUARDIANS//FORCECON//DATA 
-description:override MIDNIGHT EXIGENT protocol to support asset GUARDIANS
+title:V42NNI900CLS010 AI-COM/CEDALION : GUARDIANS//FORCECON//DATA 
+description:execute HELIOS LIGHT protocol to support asset GUARDIANS
 
 // BEGIN munitions specification template
 
