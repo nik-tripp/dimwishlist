@@ -10,7 +10,9 @@ description:execute HELIOS LIGHT protocol to support asset GUARDIANS
 
 // munition ID code [id//NAME]
 //--------------------------------------------------
+
 <munition data>
+
 //--------------------------------------------------
 
 // END CATEGORY//[SUBCATEGORY]
@@ -23,6 +25,21 @@ description:execute HELIOS LIGHT protocol to support asset GUARDIANS
 // BEGIN munitions specification data
 
 ////////////////////////////////////////////////////
+
+// BEGIN [GRENADE LAUNCHER]
+// BEGIN GRENADE LAUNCHER//[LIGHTWEIGHT FRAME]
+
+// munition ID code [3849810018//PARDON OUR DUST]
+//--------------------------------------------------
+
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,960810156,186337601#notes:izTrippn - PvE crowd control god roll
+dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156#notes:izTrippn - PvE crowd control demigod
+dimwishlist:item=3849810018&perks=3032599245,960810156#notes:izTrippn - PvE crowd control perks
+
+//--------------------------------------------------
+
+// END GRENADE LAUNCHER//[LIGHTWEIGHT FRAME]]
+// END [GRENADE LAUNCHER]
 
 ////////////////////////////////////////////////////
 
